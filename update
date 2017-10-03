@@ -174,7 +174,7 @@ chmod +x /usr/bin/userdelete
 
 # Install Menu
 cd
-wget http://autoscriptnobita.tk/MASTER7752/menu
+wget https://raw.githubusercontent.com/ehomecore/new2017/master/menu
 mv ./menu /usr/local/bin/menu
 chmod +x /usr/local/bin/menu
 
